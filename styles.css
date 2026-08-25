@@ -85,7 +85,7 @@ body {
   padding: 0.55rem 1.5rem;
   border-radius: 50px;
   margin-bottom: 1.5rem;
-  box-shadow: 0 0 20px rgba(47, 111, 191, 0.8);
+  box-shadow: 0 0 50px rgba(47, 111, 191, 0.8);
 }
 
 .launch-page h1 {
