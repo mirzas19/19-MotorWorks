@@ -94,7 +94,7 @@ body {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
 }
 .logo-wrap {
-  max-width: 280%;
+  max-width: 380%;
   display: flex;
   justify-content: center;
   margin-bottom: 1rem;
